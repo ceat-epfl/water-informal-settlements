@@ -4,7 +4,7 @@
 
 A replicable computational workflow to assess the efficacy of water distribution systems in informal settlements and their association with diarrhea, based on cross-sectional household surveys.
 
-**Citation:** Pessoa Colombo V, Chenal J, Otieno M, Orina F, Meme H, Utzinger J. Efficacy of different water distribution systems in informal settlements: a cross-sectional study in Nairobi, Kenya. *Preprint*. 2023.
+**Citation:** Pessoa Colombo V, Chenal J, Otieno M, Orina F, Meme H, Utzinger J. Relating the design of water distribution systems in informal settlements with service continuity and safety: empirical evidence from Nairobi, Kenya. *Preprint*. 2023.
 
 ## Instructions to reproduce the analysis
 
