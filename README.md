@@ -17,7 +17,7 @@ This work is licensed under a
 
 A replicable computational workflow to assess the efficacy of water distribution systems in informal settlements and their association with diarrhea, based on cross-sectional household surveys.
 
-**Citation:** Pessoa Colombo V, Chenal J, Otieno M, Orina F, Meme H, Utzinger J. Relating the design of water distribution systems in informal settlements with service continuity and safety: empirical evidence from Nairobi, Kenya. *Am J Trop Med Hyg*. 2024.
+**Citation:** Pessoa Colombo V, Utzinger J, Orina F, Otieno M, Meme H, Chenal J. Transitional infrastructures extending access to safe water in informal settlements: a cross-sectional study in Nairobi, Kenya. *Am J Trop Med Hyg*. 2024.
 
 ## Instructions to reproduce the analysis
 
