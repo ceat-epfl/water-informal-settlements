@@ -1,10 +1,23 @@
-[![GitHub license](https://img.shields.io/github/license/ceat-epfl/sanitation-informal-settlements.svg)](https://github.com/ceat-epfl/sanitation-informal-settlements/blob/main/LICENSE)
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 # Efficacy of water systems in informal settlements in Nairobi.
 
+## Terms of use
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-green.svg
+
+## About
+
 A replicable computational workflow to assess the efficacy of water distribution systems in informal settlements and their association with diarrhea, based on cross-sectional household surveys.
 
-**Citation:** Pessoa Colombo V, Chenal J, Otieno M, Orina F, Meme H, Utzinger J. Relating the design of water distribution systems in informal settlements with service continuity and safety: empirical evidence from Nairobi, Kenya. *Preprint*. 2023.
+**Citation:** Pessoa Colombo V, Chenal J, Otieno M, Orina F, Meme H, Utzinger J. Relating the design of water distribution systems in informal settlements with service continuity and safety: empirical evidence from Nairobi, Kenya. *Am J Trop Med Hyg*. 2024.
 
 ## Instructions to reproduce the analysis
 
